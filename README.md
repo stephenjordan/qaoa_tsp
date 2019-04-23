@@ -2,4 +2,4 @@
 Quantum Approximate Optimization Algorithm applied to Ising Hamiltonian derived from an
 instance of the Traveling Salesman Problem.
 
-See: https://stephenjordan.github.io/traveling_santa.html
+See: http://quantumalgorithmzoo.org/traveling_santa/
